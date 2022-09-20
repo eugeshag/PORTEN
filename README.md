@@ -1,5 +1,4 @@
 # Верстка макета с адаптивом 
 
 Технологии: 
-HTML / CSS(SCSS) / JS
-Bootstrap
+HTML / CSS(SCSS) / JS / Bootstrap
